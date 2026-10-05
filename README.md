@@ -8,17 +8,22 @@ Currently turning what I learn into projects, labs, and systems that actually wo
 
 ---
 
-## What I'm Into
+What I'm Into
 
-☁️ Cloud Security — AWS, IAM, networking, monitoring, and secure infrastructure
+CLOUD SECURITY
+AWS · IAM · Networking · Monitoring · Secure Infrastructure
 
-🔐 Cybersecurity — defensive security, threat detection, vulnerability management
+CYBERSECURITY
+Threat Detection · Vulnerability Management · Defensive Security
 
-🤖 AI Automation — using AI to automate security and technical workflows
+AI + AUTOMATION
+AI-Assisted Analysis · Security Workflows · Technical Automation
 
-🏗️ Infrastructure — Terraform, Linux, scripting, and reproducible environments
+INFRASTRUCTURE
+Terraform · Linux · Bash · Reproducible Environments
 
-🚀 DevSecOps — security integrated into development and CI/CD
+DEVSECOPS
+CI/CD · Security Automation · Secure Development
 
 ---
 
@@ -47,32 +52,69 @@ AI Automation • Security-focused AI applications
 
 ---
 
-## Projects
+Aesthetic GitHub README Sections
+What I'm Into
 
-I'm building a collection of practical projects around cloud security, automation, and infrastructure.
+CLOUD SECURITY
+AWS · IAM · Networking · Monitoring · Secure Infrastructure
 
-### ☁️ Secure AWS Infrastructure
+CYBERSECURITY
+Threat Detection · Vulnerability Management · Defensive Security
 
-Secure cloud architecture using AWS networking, IAM, logging, monitoring, and Infrastructure as Code.
+AI + AUTOMATION
+AI-Assisted Analysis · Security Workflows · Technical Automation
 
-### 🛡️ Cloud Threat Detection
+INFRASTRUCTURE
+Terraform · Linux · Bash · Reproducible Environments
 
-A practical security monitoring and detection environment focused on telemetry, alerts, investigation, and response.
+DEVSECOPS
+CI/CD · Security Automation · Secure Development
 
-### 🤖 AI Security Automation
+Projects
 
-Security workflows enhanced with AI for analysis, automation, and analyst productivity.
+Building systems around cloud security, infrastructure, automation, and security engineering.
 
-### 🚀 DevSecOps Security Pipeline
+01 — Secure AWS Infrastructure
 
+AWS · Terraform · IAM · VPC · CloudTrail · CloudWatch
 
-Automated security checks integrated into a development and CI/CD workflow.
+A security-focused AWS environment designed around least privilege, network segmentation, centralized visibility, and infrastructure as code.
 
-### 🔎 Vulnerability Management Platform
+Focus: secure architecture · identity · logging · monitoring · automation
 
-A practical system for discovering, tracking, prioritizing, and documenting vulnerabilities.
+02 — Cloud Threat Detection
 
-> Projects will be added here as they're built.
+AWS · Security Monitoring · Detection · Incident Response
+
+A cloud-based detection environment for collecting security telemetry, identifying suspicious activity, investigating events, and developing repeatable detection workflows.
+
+Focus: telemetry · detection logic · investigation · response
+
+03 — AI Security Automation
+
+Python · AI · APIs · Security Automation
+
+AI-assisted security workflows designed to reduce repetitive analysis and support faster investigation, reporting, and decision-making.
+
+Focus: automation · analysis · security operations · AI-assisted workflows
+
+04 — DevSecOps Security Pipeline
+
+GitHub Actions · CI/CD · Security Testing · Terraform
+
+A development pipeline with security built into the workflow — from source code and dependencies to infrastructure configuration and deployment.
+
+Focus: automated testing · security gates · CI/CD · infrastructure security
+
+05 — Vulnerability Management Platform
+
+Python · Security · Automation · Web
+
+A vulnerability management system for organizing findings, assessing risk, tracking remediation, and maintaining a clear security record.
+
+Focus: discovery · risk prioritization · remediation · reporting
+
+Build → Secure → Automate → Repeat
 ---
 
 ## Hands-On Labs
@@ -110,7 +152,7 @@ AI + Security Automation
 
 ## Find Me
 
-💼 [LinkedIn](https://www.linkedin.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/lateef-arbaz-mohammed-abdul/)
 
 🐙 [GitHub](https://github.com/LateefArbaz)
 
