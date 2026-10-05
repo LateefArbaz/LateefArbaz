@@ -1,54 +1,103 @@
-# Hi, I'm Lateef Arbaz 👋
+# Lateef Arbaz
 
-### Cloud Security • AWS • Cybersecurity • AI Automation
+### Master's Student • Cloud Security • AWS • AI Automation
 
-I’m a Master's student building hands-on skills in cloud security, cybersecurity, AWS, Python, and AI-powered automation.
+Building toward Cloud Security Engineering — with a focus on AWS, infrastructure security, automation, and AI-assisted security workflows.
 
-I’m focused on learning by building — designing secure cloud environments, automating security workflows, and turning technical concepts into practical projects.
-
----
-
-## 🎯 What I'm Building
-
-- ☁️ **Cloud Security** — secure AWS infrastructure, IAM, networking, logging, and monitoring
-- 🔐 **Cybersecurity** — security engineering, threat detection, vulnerability management, and defensive security
-- 🤖 **AI Automation** — applying AI to security workflows and repetitive technical tasks
-- 🏗️ **Infrastructure as Code** — Terraform and reproducible cloud environments
-- 🚀 **DevSecOps** — integrating security into development and CI/CD workflows
+Currently turning what I learn into projects, labs, and systems that actually work.
 
 ---
 
-## 🧰 Technologies I'm Working With
+## What I'm Into
 
-**Cloud:** AWS  
-**Security:** IAM • CloudTrail • CloudWatch • GuardDuty • Security Principles  
-**Languages:** Python • Bash  
-**Infrastructure:** Terraform  
-**Systems:** Linux  
-**Development:** Git • GitHub • GitHub Actions  
-**AI:** AI Automation • Security-focused AI applications
+☁️ Cloud Security — AWS, IAM, networking, monitoring, and secure infrastructure
 
----
+🔐 Cybersecurity — defensive security, threat detection, vulnerability management
 
-## 🚀 Featured Projects
+🤖 AI Automation — using AI to automate security and technical workflows
 
-> Building this section as I complete real-world projects and labs.
+🏗️ Infrastructure — Terraform, Linux, scripting, and reproducible environments
 
-- ☁️ **Secure AWS Infrastructure** — secure cloud architecture, IAM, networking, monitoring, and infrastructure as code
-- 🛡️ **Cloud Threat Detection Platform** — security telemetry, detection logic, alerting, and investigation workflows
-- 🤖 **AI Security Automation** — intelligent automation for security analysis and repetitive security tasks
-- 🚀 **DevSecOps Security Pipeline** — automated testing and security checks integrated into CI/CD
+🚀 DevSecOps — security integrated into development and CI/CD
 
 ---
 
-## 📚 Currently Learning
+## Technical Focus
+
+Cloud
+AWS
+
+Security
+IAM • CloudTrail • CloudWatch • GuardDuty • Security Fundamentals
+
+Languages
+Python • Bash
+
+Infrastructure
+Terraform
+
+Systems
+Linux
+
+Development
+Git • GitHub • GitHub Actions
+
+AI
+AI Automation • Security-focused AI applications
+
+---
+
+## Projects
+
+I'm building a collection of practical projects around cloud security, automation, and infrastructure.
+
+### ☁️ Secure AWS Infrastructure
+
+Secure cloud architecture using AWS networking, IAM, logging, monitoring, and Infrastructure as Code.
+
+### 🛡️ Cloud Threat Detection
+
+A practical security monitoring and detection environment focused on telemetry, alerts, investigation, and response.
+
+### 🤖 AI Security Automation
+
+Security workflows enhanced with AI for analysis, automation, and analyst productivity.
+
+### 🚀 DevSecOps Security Pipeline
+
+
+Automated security checks integrated into a development and CI/CD workflow.
+
+### 🔎 Vulnerability Management Platform
+
+A practical system for discovering, tracking, prioritizing, and documenting vulnerabilities.
+
+> Projects will be added here as they're built.
+---
+
+## Hands-On Labs
+
+Learning by doing — from Linux and networking fundamentals to AWS security, automation, and cloud infrastructure.
+
+* Linux & system administration
+* AWS security labs
+* IAM & least privilege
+* Network security & traffic analysis
+* Python security automation
+* Terraform & Infrastructure as Code
+* DevSecOps & CI/CD
+* AI security automation
+
+---
+
+## Currently Learning
 
 ```text
-AWS Cloud & Security
+AWS & Cloud Security
         ↓
 Linux & Networking
         ↓
-Python Security Automation
+Python Automation
         ↓
 Terraform & Infrastructure as Code
         ↓
@@ -59,14 +108,12 @@ AI + Security Automation
 
 ---
 
-## 🌐 Connect With Me
+## Find Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 🐙 [GitHub](https://github.com/LateefArbaz)
+💼 [LinkedIn](https://www.linkedin.com/)
+
+🐙 [GitHub](https://github.com/LateefArbaz)
 
 ---
 
-> **Build. Secure. Automate. Learn.**
-### 👨‍💻 Learning in Public
-
-Building my skills one project at a time.
+> Build. Secure. Automate. Learn.
