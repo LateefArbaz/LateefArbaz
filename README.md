@@ -10,45 +10,58 @@ Currently turning what I learn into projects, labs, and systems that actually wo
 
 ## What I'm Into
 
-CLOUD SECURITY
+#### CLOUD SECURITY
+
 AWS · IAM · Networking · Monitoring · Secure Infrastructure
 
-CYBERSECURITY
+#### CYBERSECURITY
+
 Threat Detection · Vulnerability Management · Defensive Security
 
-AI + AUTOMATION
+#### AI + AUTOMATION
+
 AI-Assisted Analysis · Security Workflows · Technical Automation
 
-INFRASTRUCTURE
+#### INFRASTRUCTURE
+
 Terraform · Linux · Bash · Reproducible Environments
 
-DEVSECOPS
+#### DEVSECOPS
+
 CI/CD · Security Automation · Secure Development
 
 ---
 
 ## Technical Focus
 
-Cloud
+#### Cloud
+
 AWS
 
-Security
-IAM • CloudTrail • CloudWatch • GuardDuty • Security Fundamentals
+#### Security
 
-Languages
-Python • Bash
+IAM · CloudTrail · CloudWatch · GuardDuty · Security Fundamentals
 
-Infrastructure
+#### Languages
+
+Python · Bash
+
+#### Infrastructure
+
 Terraform
 
-Systems
+#### Systems
+
 Linux
 
-Development
-Git • GitHub • GitHub Actions
+#### Development
 
-AI
-AI Automation • Security-focused AI applications
+Git · GitHub · GitHub Actions
+
+#### AI
+
+AI Automation · Security-focused AI applications
+
 
 ---
 
