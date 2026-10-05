@@ -52,29 +52,12 @@ AI Automation • Security-focused AI applications
 
 ---
 
-Aesthetic GitHub README Sections
-What I'm Into
-
-CLOUD SECURITY
-AWS · IAM · Networking · Monitoring · Secure Infrastructure
-
-CYBERSECURITY
-Threat Detection · Vulnerability Management · Defensive Security
-
-AI + AUTOMATION
-AI-Assisted Analysis · Security Workflows · Technical Automation
-
-INFRASTRUCTURE
-Terraform · Linux · Bash · Reproducible Environments
-
-DEVSECOPS
-CI/CD · Security Automation · Secure Development
 
 Projects
 
 Building systems around cloud security, infrastructure, automation, and security engineering.
 
-01 — Secure AWS Infrastructure
+01 Secure AWS Infrastructure
 
 AWS · Terraform · IAM · VPC · CloudTrail · CloudWatch
 
@@ -82,7 +65,7 @@ A security-focused AWS environment designed around least privilege, network segm
 
 Focus: secure architecture · identity · logging · monitoring · automation
 
-02 — Cloud Threat Detection
+02 Cloud Threat Detection
 
 AWS · Security Monitoring · Detection · Incident Response
 
@@ -90,7 +73,7 @@ A cloud-based detection environment for collecting security telemetry, identifyi
 
 Focus: telemetry · detection logic · investigation · response
 
-03 — AI Security Automation
+03 AI Security Automation
 
 Python · AI · APIs · Security Automation
 
@@ -98,7 +81,7 @@ AI-assisted security workflows designed to reduce repetitive analysis and suppor
 
 Focus: automation · analysis · security operations · AI-assisted workflows
 
-04 — DevSecOps Security Pipeline
+04 DevSecOps Security Pipeline
 
 GitHub Actions · CI/CD · Security Testing · Terraform
 
@@ -106,7 +89,7 @@ A development pipeline with security built into the workflow — from source cod
 
 Focus: automated testing · security gates · CI/CD · infrastructure security
 
-05 — Vulnerability Management Platform
+05 Vulnerability Management Platform
 
 Python · Security · Automation · Web
 
