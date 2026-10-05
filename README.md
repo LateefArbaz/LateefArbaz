@@ -2,7 +2,7 @@
 
 ### Master's Student • Cloud Security • AWS • AI Automation
 
-Building toward Cloud Security Engineering — with a focus on AWS, infrastructure security, automation, and AI-assisted security workflows.
+Building toward Cloud Security Engineering with a focus on AWS, infrastructure security, automation, and AI-assisted security workflows.
 
 Currently turning what I learn into projects, labs, and systems that actually work.
 
