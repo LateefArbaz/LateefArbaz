@@ -67,3 +67,6 @@ AI + Security Automation
 ---
 
 > **Build. Secure. Automate. Learn.**
+### 👨‍💻 Learning in Public
+
+Building my skills one project at a time.
